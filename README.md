@@ -1,5 +1,5 @@
 # Arduino-Motor-Control
-simple code to control dc motor by a potentiometer
+simple code to control dc motor by a potentiometer.
 
 Component Required:
 1x Arduino UNO
