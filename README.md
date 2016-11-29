@@ -21,8 +21,10 @@ Assembly passage:
 
 3)Connect the potenziometer to the breadboard,Connect the signal pin to the A2 pin on the arduino
 
-4)Connect the first Led on the pin 7 on the arduino 
+4)Connect the motor to the Channel A of the Arduino Motor Shield
 
-5)Connect the first Led on the pin 6 on the arduino
+5)Connect the first Led on the pin 7 on the arduino 
 
-6)Power all and try check the file schema for more Details
+6)Connect the first Led on the pin 6 on the arduino
+
+7)Power all and try check the file schema for more Details
