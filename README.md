@@ -1,4 +1,4 @@
-# Arduino-Motor-Control
+# Arduino-Motor-Control-Potentiometer
 simple code to control dc motor by a potentiometer.
 
 Component Required:
