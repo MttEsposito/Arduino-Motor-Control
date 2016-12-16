@@ -1,5 +1,7 @@
 # Arduino-Motor-Control-Potentiometer
+
 simple code to control dc motor by a potentiometer.
+
 https://www.youtube.com/watch?v=SftyMyYssD4&feature=youtu.be
 
 Component Required:
